@@ -9,7 +9,7 @@ I specialize in transforming raw data into meaningful insights through SQL, R, T
 
 ## 🧭 Career Story
 
-My career has always centered around understanding people, solving problems, and using data to drive better decisions. I began in roles that required sharp observation, communication, and performance analysis — from coaching athletes to evaluating customer experiences to conducting digital investigations. Over time, I realized that the common thread in all my work was data: collecting it, interpreting it, and turning it into meaningful action.
+My career has always centered around understanding people, solving problems, and using data to drive better decisions. I began in roles that required sharp observation, communication, and performance analysis — from coaching fitness enthusists of all ages to evaluating customer experiences to conducting digital investigations. Over time, I realized that the common thread in all my work was data: collecting it, interpreting it, and turning it into meaningful action.
 
 This led me to pursue my Master’s in Data Analytics, where I strengthened my technical foundation in SQL, R, Excel, Tableau, Power BI, and database management. My academic work deepened my skills in predictive analysis, modeling, data visualization, and decision methods, giving me the tools to pair analytical rigor with real‑world application.
 
