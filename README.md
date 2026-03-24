@@ -75,7 +75,7 @@ Identified trends, category performance, and customer segment behavior through c
 
 <hr style="border:0.5px solid #d3d3d3;" />
 
-## 🏀 Applied Analytics Experience
+## Applied Analytics Experience
 
 ### **Director of Analytics & Scouting — Varsity Basketball**  
 Developed scouting reports, video breakdowns, and performance dashboards that informed game strategy and player development. Conducted advanced statistical analysis using Hudl and Excel, and created individual player profiles to support recruitment.
