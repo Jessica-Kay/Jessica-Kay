@@ -1,9 +1,16 @@
 # Hi, I'm Jessica 👋  
 ### <span style="color:#4C8BF5;">Data Analyst</span> | SQL • R • Tableau • Power BI • Excel
+### Turning Data Into Decisions
+
 
 I'm an analytical, mission-driven data professional with a Master’s in Data Analytics and a strong foundation in research-driven decision-making, logistics design, and continuous improvement. My work blends technical expertise with a people-centered approach, shaped by years of experience educating, coaching, and supporting diverse populations.
 
-I specialize in transforming raw data into meaningful insights through SQL, R, Tableau, Power BI, and Excel. Whether I'm building dashboards, validating datasets, or analyzing performance trends, I focus on clarity, accuracy, and actionable recommendations.
+## 🔍 What I’m Focused On
+- Building clean, scalable SQL solutions for complex business questions  
+- Performing exploratory analysis in R to uncover behavioral patterns  
+- Designing executive dashboards in Power BI and Tableau  
+- Applying AI‑assisted analytics to text and customer feedback  
+- Creating intuitive Excel dashboards for everyday decision‑making  
 
 <hr style="border:0.5px solid #d3d3d3;" />
 
@@ -11,11 +18,9 @@ I specialize in transforming raw data into meaningful insights through SQL, R, T
 
 My career has always centered around understanding people, solving problems, and using data to drive better decisions. I began in roles that required sharp observation, communication, and performance analysis — from coaching fitness enthusists of all ages to evaluating customer experiences to conducting digital investigations. Over time, I realized that the common thread in all my work was data: collecting it, interpreting it, and turning it into meaningful action.
 
-This led me to pursue my Master’s in Data Analytics, where I strengthened my technical foundation in SQL, R, Excel, Tableau, Power BI, and database management. My academic work deepened my skills in predictive analysis, modeling, data visualization, and decision methods, giving me the tools to pair analytical rigor with real‑world application.
+This led me to pursue my **Master’s in Data Analytics**, where I strengthened my technical foundation in SQL, R, Excel, Tableau, Power BI, and database management. My academic work deepened my skills in predictive analysis, modeling, data visualization, and decision methods, giving me the tools to pair analytical rigor with real‑world application.
 
-In my role as Director of Analytics & Scouting for a varsity basketball program, I brought these strengths together — building dashboards, analyzing performance trends, and delivering insights that directly influenced strategy and player development. Earlier experiences as an online analyst and mystery shopper sharpened my ability to validate data, identify patterns, and communicate findings clearly.
-
-Today, I combine my technical expertise with my people-centered background to create analytics work that is accurate, actionable, and grounded in real human impact. My goal is to continue growing as a data professional while building solutions that help teams, organizations, and communities make smarter, more informed decisions.
+Today, I combine technical skill with human‑centered thinking to deliver insights that are accurate, actionable, and grounded in real‑world impact. My goal is to help organizations make smarter decisions through clear analysis and thoughtful storytelling.
 
 <hr style="border:0.5px solid #d3d3d3;" />
 
@@ -30,24 +35,42 @@ Today, I combine my technical expertise with my people-centered background to cr
 
 ## 📊 Featured Projects
 
-### 🔹 Gym Membership Retention Analysis — SQL  
-Analyzed membership behavior, attendance patterns, and churn indicators to uncover retention drivers.  
-**Skills:** Joins, CTEs, window functions, KPI analysis  
+### 🛒 **E‑Commerce Customer Analytics — SQL**  
+📦 *Analyzed multi‑table e‑commerce data to understand customer behavior, revenue trends, and product performance.*  
+Built advanced SQL queries using joins, CTEs, window functions, and KPI modeling to uncover insights around retention, CLV, and product profitability.  
+**Skills:** Joins • CTEs • Window Functions • KPI Development • CLV Modeling  
 **Repo:** _coming soon_
 
-### 🔹 Client Progress EDA — R  
-Explored client performance data to identify trends, improvement patterns, and factors influencing success.  
-**Skills:** tidyverse, ggplot2, data wrangling  
+---
+
+### 🏥 **Human‑Centered Analytics — R (Healthcare or HR)**  
+🧬 *Performed exploratory data analysis to uncover behavioral patterns in patient no‑shows or employee attrition.*  
+Used tidyverse and ggplot2 to clean data, visualize trends, and identify high‑risk groups and operational improvement opportunities.  
+**Skills:** Tidyverse • ggplot2 • EDA • Statistical Reasoning • Insight Communication  
 **Repo:** _coming soon_
 
-### 🔹 Fitness Studio KPI Dashboard — Tableau  
-Interactive dashboard tracking revenue, attendance, and trainer performance to support business decisions.  
-**Skills:** KPI design, filters, drill-downs  
-**Tableau Link:** _coming soon_
+---
 
-### 🔹 Workout Program Performance — Power BI  
-Evaluated program effectiveness using DAX measures, data modeling, and interactive visuals.  
-**Skills:** DAX, relationships, modeling  
+### 📈 **Performance Dashboard — Tableau or Power BI (Finance or Supply Chain)**  
+📊 *Designed an executive‑level dashboard to monitor KPIs across financial or supply chain operations.*  
+Built interactive visuals, drill‑downs, and clean layouts to support decision‑making around revenue, margin, delivery performance, and supplier reliability.  
+**Skills:** Tableau/Power BI • Data Modeling • KPI Design • Dashboard UX  
+**Repo:** _coming soon_
+
+---
+
+### 💬 **Customer Review Text Analysis — Power BI AI Visuals**  
+🤖 *Used Power BI’s AI visuals to analyze customer reviews, extract sentiment, and identify key influencers of satisfaction.*  
+Transformed unstructured text into insights using Key Influencers, Smart Narrative, and custom visuals — no Python required.  
+**Skills:** Power BI AI Visuals • Power Query • DAX • Text Analytics  
+**Repo:** _coming soon_
+
+---
+
+### 📊 **Retail Sales & Profitability Dashboard — Excel**  
+🧾 *Built an Excel dashboard using Power Query, PivotTables, and interactive visuals to analyze retail sales and profit.*  
+Identified trends, category performance, and customer segment behavior through clean, business‑ready charts and KPIs.  
+**Skills:** Excel • Power Query • PivotTables • Dashboard Design  
 **Repo:** _coming soon_
 
 <hr style="border:0.5px solid #d3d3d3;" />
