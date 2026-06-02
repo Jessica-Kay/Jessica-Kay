@@ -2,7 +2,7 @@
 ### <span style="color:#4C8BF5;">Data Analyst</span> | SQL • R • Tableau • Power BI • Excel
 ### Turning Data Into Decisions
 
- 
+  
 I'm an analytical, mission-driven data professional with a Master’s in Data Analytics and a strong foundation in research-driven decision-making, logistics design, and continuous improvement. My work blends technical expertise with a people-centered approach, shaped by years of experience educating, coaching, and supporting diverse populations.
 
 ## 🔍 What I’m Focused On
