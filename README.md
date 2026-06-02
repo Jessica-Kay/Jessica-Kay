@@ -103,6 +103,7 @@ Used performance metrics (split times, stroke rates, heart rate data) to customi
 
 ## 📬 Connect With Me  
 **LinkedIn:** www.linkedin.com/in/jessica-l-kay 
+
 **Email:** jltkay@hotmail.com
 
 ---
