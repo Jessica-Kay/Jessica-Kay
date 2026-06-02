@@ -67,11 +67,11 @@ Transformed unstructured text into insights using Key Influencers, Smart Narrati
 
 ---
 
-### 📊 **Retail Sales & Profitability Dashboard — Excel**  
-🧾 *Built an Excel dashboard using Power Query, PivotTables, and interactive visuals to analyze retail sales and profit.*  
-Identified trends, category performance, and customer segment behavior through clean, business‑ready charts and KPIs.  
-**Skills:** Excel • Power Query • PivotTables • Dashboard Design  
-**Repo:** _coming soon_
+### 📊 **Retail Sales & Profitability Dashboard — Excel**
+🧾 Built an Excel dashboard using Power Query, PivotTables, and interactive visuals to analyze retail sales and profit.
+Identified trends, category performance, and customer segment behavior through clean, business‑ready charts and KPIs.
+**Skills:** Excel • Power Query • PivotTables • Dashboard Design
+**Repo:** [Retail Sales & Profitability Dashboard](https://github.com/Jessica-Kay/Retail_Sales_Profitability_Dashboard)
 
 <hr style="border:0.5px solid #d3d3d3;" />
 
