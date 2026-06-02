@@ -86,6 +86,10 @@ Used performance metrics (split times, stroke rates, heart rate data) to customi
 <div align="center">• • •</div>
 
 ## 📄 Résumé
+<details>
+  <summary><strong>📄 Résumé</strong></summary>
+
+<br>
 
 ### Preview  
 ![Résumé Preview](https://github.com/Jessica-Kay/resume/blob/main/resume_preview.png)
@@ -93,10 +97,12 @@ Used performance metrics (split times, stroke rates, heart rate data) to customi
 ### Download PDF  
 👉 [**Click here to download my résumé**](https://github.com/Jessica-Kay/resume/blob/main/Jessica_Kay_Resume.pdf)
 
+</details>
+
 <hr style="border:0.5px solid #d3d3d3;" />
 
 ## 📬 Connect With Me  
-**LinkedIn:** _add your link_  
-**Email:** _add your email_
+**LinkedIn:** www.linkedin.com/in/jessica-l-kay 
+**Email:** jltkay@hotmail.com
 
 ---
