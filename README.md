@@ -41,15 +41,11 @@ Built advanced SQL queries using joins, CTEs, window functions, and KPI modeling
 **Skills:** Joins • CTEs • Window Functions • KPI Development • CLV Modeling  
 **Repo:** _coming soon_
 
----
-
 ### 🏥 **Human‑Centered Analytics — R (Healthcare or HR)**  
 🧬 *Performed exploratory data analysis to uncover behavioral patterns in patient no‑shows or employee attrition.*  
 Used tidyverse and ggplot2 to clean data, visualize trends, and identify high‑risk groups and operational improvement opportunities.  
 **Skills:** Tidyverse • ggplot2 • EDA • Statistical Reasoning • Insight Communication  
 **Repo:** _coming soon_
-
----
 
 ### 📈 **Performance Dashboard — Tableau or Power BI (Finance or Supply Chain)**  
 📊 *Designed an executive‑level dashboard to monitor KPIs across financial or supply chain operations.*  
@@ -57,15 +53,11 @@ Built interactive visuals, drill‑downs, and clean layouts to support decision�
 **Skills:** Tableau/Power BI • Data Modeling • KPI Design • Dashboard UX  
 **Repo:** _coming soon_
 
----
-
 ### 💬 **Customer Review Text Analysis — Power BI AI Visuals**  
 🤖 *Used Power BI’s AI visuals to analyze customer reviews, extract sentiment, and identify key influencers of satisfaction.*  
 Transformed unstructured text into insights using Key Influencers, Smart Narrative, and custom visuals — no Python required.  
 **Skills:** Power BI AI Visuals • Power Query • DAX • Text Analytics  
 **Repo:** _coming soon_
-
----
 
 ### 📊 **Retail Sales & Profitability Dashboard — Excel**
 🧾 Built an Excel dashboard using Power Query, PivotTables, and interactive visuals to analyze retail sales and profit.
