@@ -55,7 +55,7 @@ Built interactive visuals, drill‑downs, and clean layouts to support decision�
 
 ### 💬 **Customer Review Text Analysis — Power BI AI Visuals**  
 🤖 *Used Power BI’s AI visuals to analyze customer reviews, extract sentiment, and identify key influencers of satisfaction.*  
-Transformed unstructured text into insights using Key Influencers, Smart Narrative, and custom visuals — no Python required.  
+Transformed unstructured text into insights using Key Influencers, Smart Narrative, and custom visuals.  
 **Skills:** Power BI AI Visuals • Power Query • DAX • Text Analytics  
 **Repo:** _coming soon_
 
